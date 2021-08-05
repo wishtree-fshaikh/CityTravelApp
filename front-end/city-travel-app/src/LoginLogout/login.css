@@ -1,0 +1,50 @@
+.button1 {
+    background-color: #c0d6d6; 
+    border:blue;
+    color: rgb(20, 17, 17);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* border-radius: 100%; */
+    transition-duration: 0.4s;
+
+
+  }
+  .button1:hover {
+    background-image: linear-gradient(rgb(163, 195, 228), rgb(86, 184, 241));
+    color: white;
+  }
+
+
+  #logC{
+    height: 400px;
+    background-color: #252627;
+  }
+
+
+  .button2 {
+    background-color: green;
+    border-style: solid;
+    color: rgb(20, 17, 17);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    /* border-radius: 50%; */
+    transition-duration: 0.4s;
+
+
+  }
+
+  .btnctn{
+  
+  }
+
+  .button2:hover {
+    background-image: linear-gradient(rgb(163, 195, 228), rgb(86, 184, 241));
+    color: white;
+  }
+
